@@ -16,8 +16,10 @@ This project simulates the process of fetching patient information from Electron
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the project files.
+    ```bash
+        cd ehr-simulation
+    ```
 3. Run the simulation using the following command:
-
    ```bash
        python3 main.py
    ```
